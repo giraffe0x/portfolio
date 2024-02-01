@@ -8,7 +8,7 @@
 
 
 ## Introduction
-TBC
+[giraffe0x](https://twitter.com/giraffe0x) is a talented Security Researcher with a keen eye for smart contract vulnerabilities. He is also an experienced DeFi Solidity Engineer and previously built vaults exceeding $2M TVL. During an exploit he was responsbile for rescuing over $500K of user funds.
 
 ## Past contests
 ### Jan 2023
@@ -29,4 +29,5 @@ TBC
 - [S Protocol](https://github.com/giraffe0x/portfolio/tree/main/engagements/S_protocol)
 
 ## Testimonials
-TBC
+What previous clients say about my work:
+- [https://x.com/giraffe0x/status/1729462699594318051?s=20](https://x.com/giraffe0x/status/1729462699594318051?s=20)
