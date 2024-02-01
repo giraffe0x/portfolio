@@ -16,7 +16,7 @@ TBC
 - [JOJO Exchange]() - Sherlock
 
 ### Nov 2023
-- [Nouns Builder](https://github.com/giraffe0x/portfolio/tree/main/contests/sherlock/NounsBuilder)
+- [Nouns Builder](https://github.com/giraffe0x/portfolio/tree/main/contests/sherlock/NounsBuilder) - Sherlock
 
 ### Oct 2023
 - [Real Wagmi #2 ](https://github.com/giraffe0x/portfolio/blob/main/reports/sherlock/RealWagmi%232/RealWagmi%232.md) - Sherlock 4th placing
