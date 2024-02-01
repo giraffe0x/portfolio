@@ -11,14 +11,18 @@
 TBC
 
 ## Past contests
+### Nov 2023
+[Nouns Builder](https://github.com/giraffe0x/portfolio/tree/main/contests/sherlock/NounsBuilder)
+
 ### Oct 2023
-[Real Wagmi #2 (Sherlock)](https://github.com/giraffe0x/portfolio/blob/main/reports/sherlock/RealWagmi%232/RealWagmi%232.md)
+[Real Wagmi #2 ](https://github.com/giraffe0x/portfolio/blob/main/reports/sherlock/RealWagmi%232/RealWagmi%232.md) - Sherlock 4th placing
 
 ### Mar 2023
-[GMX (Sherlock)](https://github.com/giraffe0x/portfolio/tree/main/reports/sherlock/GMXv2)
+[Asymmetry]()
+[GMX](https://github.com/giraffe0x/portfolio/tree/main/reports/sherlock/GMXv2) - Sherlock
 
 ## Past engagements
-
+[S Protocol](https://github.com/giraffe0x/portfolio/tree/main/engagements/S_protocol)
 
 ## Testimonials
 TBC
