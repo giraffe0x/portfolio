@@ -13,5 +13,8 @@ TBC
 ### Oct 2023
 [Real Wagmi #2 (Sherlock)](https://github.com/giraffe0x/portfolio/blob/main/reports/sherlock/RealWagmi%232/RealWagmi%232.md)
 
+### Mar 2023
+[GMX (Sherlock)](https://github.com/giraffe0x/portfolio/tree/main/reports/sherlock/GMXv2)
+
 ## Testimonials
 TBC
