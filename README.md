@@ -18,8 +18,8 @@ TBC
 [Real Wagmi #2 ](https://github.com/giraffe0x/portfolio/blob/main/reports/sherlock/RealWagmi%232/RealWagmi%232.md) - Sherlock 4th placing
 
 ### Mar 2023
-[Asymmetry](https://github.com/giraffe0x/portfolio/tree/main/contests/code4rena/Asymmetry)
-[GMX](https://github.com/giraffe0x/portfolio/tree/main/reports/sherlock/GMXv2) - Sherlock
+- [Asymmetry](https://github.com/giraffe0x/portfolio/tree/main/contests/code4rena/Asymmetry)
+- [GMX](https://github.com/giraffe0x/portfolio/tree/main/reports/sherlock/GMXv2) - Sherlock
 
 ## Past engagements
 [S Protocol](https://github.com/giraffe0x/portfolio/tree/main/engagements/S_protocol)
