@@ -12,14 +12,14 @@
 
 ## Past contests
 ### Jan 2023
-- [Zerolend]() - Cantina
-- [JOJO Exchange]() - Sherlock
+- Zerolend (to be updated) - Cantina
+- JOJO Exchange (to be updated) - Sherlock
 
 ### Nov 2023
 - [Nouns Builder](https://github.com/giraffe0x/portfolio/tree/main/contests/sherlock/NounsBuilder) - Sherlock
 
 ### Oct 2023
-- [Real Wagmi #2 ](https://github.com/giraffe0x/portfolio/blob/main/reports/sherlock/RealWagmi%232/RealWagmi%232.md) - Sherlock 4th placing
+- [Real Wagmi #2 ](https://github.com/giraffe0x/portfolio/tree/main/contests/sherlock/RealWagmi%232) - Sherlock 4th placing
 
 ### Mar 2023
 - [Asymmetry](https://github.com/giraffe0x/portfolio/tree/main/contests/code4rena/Asymmetry) - Code4rena
