@@ -13,7 +13,7 @@
 ## Past contests
 ### Jan 2023
 - Zerolend (to be updated) - Cantina
-- JOJO Exchange (to be updated) - Sherlock
+- [JOJO Exchange](https://github.com/giraffe0x/portfolio/blob/main/contests/sherlock/JOJOExchange/JOJOExchange.md) - Sherlock 4th placing
 
 ### Nov 2023
 - [Nouns Builder](https://github.com/giraffe0x/portfolio/tree/main/contests/sherlock/NounsBuilder) - Sherlock
