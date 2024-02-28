@@ -1,14 +1,9 @@
 # giraffe0x - Security reviews portfolio
 
-## Table of contents
-- [Introduction](#introduction)
-- [Past contests](#past-contests)
-- [Past engagements](#past-engagements)
-- [Testimonials](#testimonials)
-
-
 ## Introduction
-[giraffe0x](https://twitter.com/giraffe0x) is a talented Security Researcher with a keen eye for smart contract vulnerabilities. He is also an experienced DeFi Solidity Engineer and previously built vaults exceeding $2M TVL. During an exploit he was responsbile for rescuing over $500K of user funds.
+[giraffe0x](https://twitter.com/giraffe0x) is an independent Security Researcher at Spearbit. He has achieved multiple top 4 placings in public audit contests and received glowing feedback from private clients.
+
+For private security reviews, please contact him through [Twitter](https://twitter.com/giraffe0x) or [Telegram](https://t.me/Nic_giraffe0x).
 
 ## Past contests
 | Contest       	| Type                                                                           	| Platform  	| Ranking 	| Findings  	| Report                                                                                                                                                                                                                         	|
