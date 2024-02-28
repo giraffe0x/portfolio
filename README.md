@@ -11,6 +11,12 @@
 [giraffe0x](https://twitter.com/giraffe0x) is a talented Security Researcher with a keen eye for smart contract vulnerabilities. He is also an experienced DeFi Solidity Engineer and previously built vaults exceeding $2M TVL. During an exploit he was responsbile for rescuing over $500K of user funds.
 
 ## Past contests
+| Contest       	| Platform 	| Ranking 	| Findings 	| Report                                                                                                                                                                        	|
+|---------------	|----------	|---------	|----------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Zerolend      	| Cantina  	| TBA     	| TBA      	| TBA                                                                                                                                                                           	|
+| Jojo Exchange 	| Sherlock 	| 4th     	| 1H/1M    	| [H1](https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging/issues/76) [M1](https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging/issues/77) 	|
+| Nouns Builder 	| Sherlock 	| -       	| 1H/1M    	| [H1]() [M1]()                                                                                                                                                                 	|                                                                                                                                                             |
+
 ### Jan 2024
 - Zerolend (to be updated) - Cantina
 - [JOJO Exchange](https://github.com/giraffe0x/portfolio/blob/main/contests/sherlock/JOJOExchange/JOJOExchange.md) - Sherlock 4th placing
