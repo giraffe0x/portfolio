@@ -22,7 +22,7 @@ For private security reviews, please contact him through [Twitter](https://twitt
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Findings 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
-| Dec 2023 	| Undisclosed 	| Pay-per-vulnerability 	| 3H/3M    	| [Report](https://github.com/giraffe0x/portfolio/blob/main/engagements/S_protocol/S_protocol-Audit.md) 	|
+| Dec 2023 	| Undisclosed 	| Pay-per-vulnerability 	| 3H/3M    	| [Link]((https://x.com/giraffe0x/status/1729462699594318051?s=20))                                      	|
 
 ## Testimonials
 What previous clients say about my work:
