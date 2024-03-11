@@ -33,7 +33,9 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Findings 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
+| Mar 2024 	| Abracadabra Money 	| Guardian Audits 	|   TBA  	| TBA                                       	|
 | Dec 2023 	| Defi Lending (Undisclosed) 	| Pay-per-vulnerability 	| 4H/4M    	| [Link](https://x.com/giraffe0x/status/1729462699594318051?s=20)                                       	|
+
 
 ## Testimonials
 What previous clients say about my work:
