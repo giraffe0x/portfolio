@@ -9,9 +9,9 @@ Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steade
 I was also accepted into [@SpearbitDAO](https://twitter.com/SpearbitDAO) as a Junior Security Researcher.
 
 Major highlights:
-1. 3rd placing in Code4rena contest for Salty.io (Dex with zero swap fees): [https://code4rena.com/audits/2024-01-saltyio#top](https://code4rena.com/audits/2024-01-saltyio#top)
-2. 3rd placing in Sherlock contest for Jojo Exchange (Perp protocol): [https://audits.sherlock.xyz/contests/136/leaderboard](https://audits.sherlock.xyz/contests/136/leaderboard)
-3. 4th placing in Sherlock contest for Real Wagmi (Defi trading, yield): [https://audits.sherlock.xyz/contests/118/leaderboard](https://audits.sherlock.xyz/contests/118/leaderboard)
+1. 3rd placing in Code4rena contest for Salty.io (Dex)
+2. 3rd placing in Sherlock contest for Jojo Exchange (Perp protocol)
+3. 4th placing in Sherlock contest for Real Wagmi (Defi trading, yield)
 
 For private audits, please contact me through [Twitter](https://twitter.com/giraffe0x) or [Telegram](https://t.me/Nic_giraffe0x).
 
@@ -19,10 +19,10 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 | Contest       	| Type                                                                           	| Platform  	| Ranking 	| Findings  	| Report                                                                                                                                                                                                                         	|
 |---------------	|--------------------------------------------------------------------------------	|-----------	|---------	|-----------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Jala Swap       | DEX on Chiliz chain                                                             | Sherlock    | TBA       | TBA         | TBA
-| Salty.io        | An Ethereum-based DEX with zero swap fees                                       | Code4rena   | 3rd 🏆    | 1M (solo)   | TBA
+| Salty.io        | Ethereum-based DEX with zero swap fees                                          | Code4rena   | 3rd 🏆    | 1M (solo)   | [M1](https://code4rena.com/audits/2024-01-saltyio#top)
 | Rio Network   	| Liquid restaking protocol integrated with Eigenlayer                           	| Sherlock  	| TBA     	| TBA       	| TBA                                                                                                                                                                                                                            	|
 | Opal Protocol 	| Liquidity pools integrated with Balancer                                       	| Cantina   	| TBA     	| TBA       	| TBA                                                                                                                                                                                                                            	|
-| AI Arena      	| In AI Arena you train an AI character to battle in a platform fighting game    	| Code4rena 	| TBA     	| TBA       	| TBA                                                                                                                                                                                                                            	|
+| AI Arena      	| AI     GameFi with NFTs                                                        	| Code4rena 	| TBA     	| TBA       	| TBA                                                                                                                                                                                                                            	|
 | Zerolend      	| Lending protocol on Zksync                                                     	| Cantina   	| TBA     	| TBA       	| TBA                                                                                                                                                                                                                            	|
 | Jojo Exchange 	| Defi perpetual protocol                                                        	| Sherlock  	| 3rd 🏆   	| 1H/1M     	| [H1](https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging/issues/76) [M1](https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging/issues/77)
 | Nouns Builder 	| DAO and governance platform                                                    	| Sherlock  	| 17th     	| 1H/1M     	| [H1](https://github.com/sherlock-audit/2023-09-nounsbuilder-judging/issues/309) [M1](https://github.com/sherlock-audit/2023-09-nounsbuilder-judging/issues/306)
