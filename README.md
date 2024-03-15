@@ -4,7 +4,7 @@
 
 I also compete in public contests on Sherlock, C4 and Cantina and secured top placings in multiple contests. My range of expertise includes restaking, defi lending/borrowing, NFT and DAO governance.
 
-Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steadefi), where I built vaults which attracted >$2M in TVL. I have experience writing comprehensive test suites, fuzzing/invariant tests, and performing gas optimization.
+Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steadefi), where I built yield vaults which attracted >$2M in TVL. I have experience writing comprehensive test suites, fuzzing/invariant tests, and performing gas optimization.
 
 I was also accepted into [@SpearbitDAO](https://twitter.com/SpearbitDAO) as a Junior Security Researcher.
 
