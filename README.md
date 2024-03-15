@@ -1,13 +1,12 @@
 # giraffe0x - Security reviews portfolio
 
-## Introduction
-### Hi, I'm Nicholas 'giraffe0x' a Smart Contract Auditor and Software Engineer.
+### Hi, I am a Security Researcher with [@GuardianAudits](https://twitter.com/GuardianAudits).
 
-I am actively competing in contests on Sherlock, C4 and Cantina and secured top placings in multiple contests. My range of expertise spans various domains including restaking, lending/borrowing, NFT protocols and DAO governance.
+I also compete in public contests on Sherlock, C4 and Cantina and secured top placings in multiple contests. My range of expertise includes restaking, defi lending/borrowing, NFT and DAO governance.
 
-As a former solidity developer at a Defi protocol, I also have experience writing test suites, fuzzing/invariant tests, and gas optimization.
+Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steadefi), where I built vaults which attracted >$2M in TVL. I have experience writing comprehensive test suites, fuzzing/invariant tests, and performing gas optimization.
 
-I am also engaged in private audits with industry leading audit firms [@SpearbitDAO](https://twitter.com/SpearbitDAO) and [@GuardianAudits](https://twitter.com/GuardianAudits).
+I was also accepted into [@SpearbitDAO](https://twitter.com/SpearbitDAO) as a Junior Security Researcher.
 
 Major highlights:
 1. 3rd placing in Code4rena contest for Salty.io (Dex with zero swap fees): [https://code4rena.com/audits/2024-01-saltyio#top](https://code4rena.com/audits/2024-01-saltyio#top)
@@ -19,6 +18,7 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past contests
 | Contest       	| Type                                                                           	| Platform  	| Ranking 	| Findings  	| Report                                                                                                                                                                                                                         	|
 |---------------	|--------------------------------------------------------------------------------	|-----------	|---------	|-----------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Jala Swap       | DEX on Chiliz chain                                                             | Sherlock    | TBA       | TBA         | TBA
 | Salty.io        | An Ethereum-based DEX with zero swap fees                                       | Code4rena   | 3rd 🏆    | 1M (solo)   | TBA
 | Rio Network   	| Liquid restaking protocol integrated with Eigenlayer                           	| Sherlock  	| TBA     	| TBA       	| TBA                                                                                                                                                                                                                            	|
 | Opal Protocol 	| Liquidity pools integrated with Balancer                                       	| Cantina   	| TBA     	| TBA       	| TBA                                                                                                                                                                                                                            	|
