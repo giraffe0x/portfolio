@@ -9,9 +9,9 @@ Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steade
 I was also accepted into [@SpearbitDAO](https://twitter.com/SpearbitDAO) as a Junior Security Researcher.
 
 Major highlights:
-1. 3rd placing in Code4rena contest for Salty.io (Dex)
-2. 3rd placing in Sherlock contest for Jojo Exchange (Perp protocol)
-3. 4th placing in Sherlock contest for Real Wagmi (Defi trading, yield)
+1. 2nd placing in Cantina contest for Opal (Yield / Balancer)
+2. 3rd placing in Code4rena contest for Salty.io (Dex)
+3. 3rd placing in Sherlock contest for Jojo Exchange (Perp protocol)
 
 For private audits, please contact me through [Twitter](https://twitter.com/giraffe0x) or [Telegram](https://t.me/Nic_giraffe0x).
 
