@@ -1,6 +1,6 @@
 # giraffe0x - Security reviews portfolio
 
-### Hi, I am a Security Researcher with [@GuardianAudits](https://twitter.com/GuardianAudits).
+### Hi, I am a Security Researcher with [@GuardianAudits](https://twitter.com/GuardianAudits) doing Solidity Smart Contract audits.
 
 I also compete in public contests on Sherlock, C4 and Cantina and secured top placings in multiple contests. My range of expertise includes restaking, defi lending/borrowing, NFT and DAO governance.
 
