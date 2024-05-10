@@ -2,7 +2,7 @@
 
 ### Hi, I am a Security Researcher with [@GuardianAudits](https://twitter.com/GuardianAudits) doing Solidity Smart Contract audits.
 
-I also compete in public contests on Sherlock, Code4rena and Cantina and secured top placings in multiple contests. My range of expertise includes restaking, defi lending/borrowing, NFT and DAO governance.
+I also compete on Sherlock, Code4rena and Cantina and secured top placings in multiple contests. My range of expertise includes restaking, defi lending/borrowing, NFT and DAO governance.
 
 Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steadefi) where I built yield vaults which attracted >$2M in TVL. I have experience writing comprehensive test suites, fuzzing/invariant tests, and performing gas optimization.
 
