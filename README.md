@@ -32,6 +32,8 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Findings 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
+| Apr 2024 	| Baseline 	| Guardian Audits 	|   TBA  	| TBA                                       	|
+| Apr 2024 	| Synthetix V3 	| Guardian Audits 	|   TBA  	| TBA                                       	|
 | Mar 2024 	| Abracadabra Money 	| Guardian Audits 	|   TBA  	| TBA                                       	|
 | Dec 2023 	| Defi Lending (Undisclosed) 	| Pay-per-vulnerability 	| 4H/4M    	| [Link](https://x.com/giraffe0x/status/1729462699594318051?s=20)                                       	|
 
