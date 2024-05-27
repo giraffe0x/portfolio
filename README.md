@@ -18,6 +18,7 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past contests
 | Contest       	| Type                                                                           	| Platform  	| Ranking 	| Findings  	| Report                                                                                                                                                                                                                         	|
 |---------------	|--------------------------------------------------------------------------------	|-----------	|---------	|-----------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Fairside Network | Wallet coverage for drains, scams & more                                       | Sherlock    | 2nd 🏆    | 8H/1M       | Private Contest
 | Jala Swap       | DEX on Chiliz chain                                                             | Sherlock    | 3rd 🏆    | 2M          | [M1](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/130) [M2](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/47)
 | Rio Network   	| Liquid restaking protocol integrated with Eigenlayer                           	| Sherlock  	| 5th     	| 2H/1M      	| [H1](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/184) [H2](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/54) [M1](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/59)                                                                                                                                                                                                                            	|
 | Opal Protocol 	| Liquidity pools integrated with Balancer                                       	| Cantina   	| 2nd 🏆   	| 1C/5H/4M (3 solo)	| TBA                                                                                                                                                                                                                            	|
@@ -32,9 +33,10 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Findings 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
+| May 2024 	| PleasrDao 	| Guardian Audits 	|   TBA  	| TBA                                       	|
 | Apr 2024 	| Baseline 	| Guardian Audits 	|   TBA  	| TBA                                       	|
 | Apr 2024 	| Synthetix V3 	| Guardian Audits 	|   TBA  	| TBA                                       	|
-| Mar 2024 	| Abracadabra Money 	| Guardian Audits 	|   TBA  	| TBA                                       	|
+| Mar 2024 	| Abracadabra Money 	| Guardian Audits 	|   - 	| https://github.com/GuardianAudits/Audits/tree/main/MIMSwap                                      	|
 | Dec 2023 	| Defi Lending (Undisclosed) 	| Pay-per-vulnerability 	| 4H/4M    	| [Link](https://x.com/giraffe0x/status/1729462699594318051?s=20)                                       	|
 
 
