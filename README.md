@@ -44,3 +44,4 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Testimonials
 What previous clients say about my work:
 - [https://x.com/giraffe0x/status/1729462699594318051?s=20](https://x.com/giraffe0x/status/1729462699594318051?s=20)
+- [Baseline Protocol](https://x.com/giraffe0x/status/1806645236371951891)
