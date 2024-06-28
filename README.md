@@ -31,13 +31,14 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 | GMX v2        	| Decentralized spot and perpetual exchange                                      	| Code4rena 	| 14th     	| 1M (solo) 	| [M1](https://github.com/sherlock-audit/2023-02-gmx-judging/issues/212)
 
 ## Past engagements
-| Date     	| Protocol    	| Type                  	| Findings 	| Report                                                                                                	|
+| Date     	| Protocol    	| Type                  	| Audit 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
-| May 2024 	| PleasrDao 	| Guardian Audits 	|   TBA  	| TBA                                       	|
-| Apr 2024 	| Baseline 	| Guardian Audits 	|   TBA  	| TBA                                       	|
-| Apr 2024 	| Synthetix V3 	| Guardian Audits 	|   TBA  	| TBA                                       	|
-| Mar 2024 	| Abracadabra Money 	| Guardian Audits 	|   - 	| https://github.com/GuardianAudits/Audits/tree/main/MIMSwap                                      	|
-| Dec 2023 	| Defi Lending (Undisclosed) 	| Pay-per-vulnerability 	| 4H/4M    	| [Link](https://x.com/giraffe0x/status/1729462699594318051?s=20)                                       	|
+| June 2024 | Orderly      | Defi / Crosschain / LZ | Guardian Audits | TBA 
+| May 2024 	| PleasrDao 	| DN404 / NFTs 	| Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/tree/main/PleasR)                                       	|
+| Apr 2024 	| Baseline 	| Concentrated Liquidity 	| Guardian Audits 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/BaselineMarkets)                                       	|
+| Apr 2024 	| Synthetix V3 	| Perpetuals 	| Guardian Audits 	| TBA                                       	|
+| Mar 2024 	| Abracadabra Money 	| Defi / Blast 	| Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/tree/main/MIMSwap)                                      	|
+| Dec 2023 	| Private 	| Defi lending	| Pay-per-vulnerability | [Link](https://x.com/giraffe0x/status/1729462699594318051?s=20)                                       	|
 
 
 ## Testimonials
