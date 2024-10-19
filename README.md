@@ -34,13 +34,13 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 | Date     	| Protocol    	| Type                  	| Audit 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
 | Oct 2024 | Zap | Defi / Staking | Guardian Audits | TBA
-| Sep 2024 | Peapods | Defi / Lending vault | Guardian Audits
+| Sep 2024 | Peapods | Defi / Lending vault | Guardian Audits | TBA
 | Aug 2024  | Synthetix V3 | V3 Migration |  Guardian Audits | TBA
 | Jul 2024  | Synthetix V3 | Perpetuals | Guardian Audits | TBA
 | Jun 2024 | Orderly      | Defi / Crosschain / LZ | Guardian Audits | TBA 
 | May 2024 	| PleasrDao 	| DN404 / NFTs 	| Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/tree/main/PleasR)                                       	|
 | Apr 2024 	| Baseline 	| Concentrated Liquidity 	| Guardian Audits 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/BaselineMarkets)                                       	|
-| Apr 2024 	| Synthetix V3 	| Perpetuals 	| Guardian Audits 	| [Report}(https://github.com/GuardianAudits/Audits/tree/main/Synthetix)                                   	|
+| Apr 2024 	| Synthetix V3 	| Perpetuals 	| Guardian Audits 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/Synthetix)                                   	|
 | Mar 2024 	| Abracadabra Money 	| Defi / Blast 	| Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/tree/main/MIMSwap)                                      	|
 | Dec 2023 	| Private 	| Defi lending	| Pay-per-vulnerability | [Link](https://x.com/giraffe0x/status/1729462699594318051?s=20)                                       	|
 
