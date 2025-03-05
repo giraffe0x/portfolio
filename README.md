@@ -1,4 +1,4 @@
-# About giraffe0x
+# Nicholas Chew "giraffe0x"
 
 I am a security researcher with [@GuardianAudits](https://twitter.com/GuardianAudits) doing Solidity Smart Contract audits. I am also a junior security researcher at [@SpearbitDAO](https://twitter.com/SpearbitDAO) and regularly compete on contest platforms.
 
@@ -14,17 +14,21 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Audit 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
-| Nov 2024 | Foil | Concentrated Liquidity, Vaults | Guardian Audits | TBA
+| Mar 2025 | Orderly | LayerZero Solana (Rust) | Guardian Audits | TBA
+| Feb 2025 | Abracadabra Money | Arbitrum Migration | Guardian Audits | TBA
+| Jan 2025 | Synthetix | Treasury Markets | Guardian Audits | TBA
+| Jan 2025 | True Markets | Prediction Markets | Guardian Audits | TBA
+| Dec 2024 | Mux | Perpetuals | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/MUX/2025-02-06_MUX_Perps.pdf)
+| Nov 2024 | Foil | Concentrated Liquidity, Vaults | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Foil/2025-01-13_Foil_Vault.pdf)
 | Oct 2024 | Zap | Defi / Staking | Guardian Audits | TBA
-| Sep 2024 | Peapods | Defi / Lending vault | Guardian Audits | TBA
-| Aug 2024  | Synthetix V3 | V3 Migration |  Guardian Audits | TBA
-| Jul 2024  | Synthetix V3 | Perpetuals | Guardian Audits | TBA
-| Jun 2024 | Orderly      | Defi / Crosschain / LZ | Guardian Audits | TBA 
+| Sep 2024 | Peapods | Defi / Lending vault | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Peapods/2024-11-11_Peapods.pdf)
+| Aug 2024  | Synthetix V3 | V3 Migration |  Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2025-10-28_Synthetix_Migration.pdf)
+| Jul 2024  | Synthetix V3 | Perpetuals | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-10-28_Synthetix_Perps_V3.pdf)
+| Jun 2024 | Orderly      | Defi / Crosschain / LZ | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2024-07-01_Orderly_Omnichain.pdf)
 | May 2024 	| PleasrDao 	| DN404 / NFTs 	| Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/tree/main/PleasR)                                       	|
 | Apr 2024 	| Baseline 	| Concentrated Liquidity 	| Guardian Audits 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/BaselineMarkets)                                       	|
 | Apr 2024 	| Synthetix V3 	| Perpetuals 	| Guardian Audits 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/Synthetix)                                   	|
 | Mar 2024 	| Abracadabra Money 	| Defi / Blast 	| Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/tree/main/MIMSwap)                                      	|
-| Dec 2023 	| Private 	| Defi lending	| Pay-per-vulnerability | [Report](https://x.com/giraffe0x/status/1729462699594318051?s=20)                                       	|
 
 ## Past contests
 
