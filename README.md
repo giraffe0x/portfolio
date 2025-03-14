@@ -1,8 +1,8 @@
 # Nicholas Chew "giraffe0x"
 
-I am a security researcher with [@GuardianAudits](https://twitter.com/GuardianAudits) doing Solidity Smart Contract audits. I am also a junior security researcher at [@SpearbitDAO](https://twitter.com/SpearbitDAO) and regularly compete on contest platforms.
+Security researcher with two years of experience. Currently doing private audits with [@GuardianAudits](https://twitter.com/GuardianAudits) and occassionally compete on contest platforms.
 
-Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steadefi) where I built yield vaults which attracted >$2M in TVL.
+Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steadefi).
 
 Highlights:<br>
 [Sherlock Profile](https://audits.sherlock.xyz/watson/giraffe)<br>
