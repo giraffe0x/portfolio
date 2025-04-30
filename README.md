@@ -1,8 +1,8 @@
-# Nicholas Chew "giraffe0x"
+# Nicholas Chew "giraffe"
 
-Security researcher with two years of experience. Currently doing private audits with [@GuardianAudits](https://twitter.com/GuardianAudits) and occassionally compete on contest platforms.
+Security researcher with two years of experience. Currently doing Solidity and Rust audits with [@GuardianAudits](https://twitter.com/GuardianAudits) and occassionally compete on contest platforms.
 
-Previously, I was a Solidity developer at [@Steadefi](https://twitter.com/steadefi).
+Previously, I was a Solidity developer at a DeFi protocol building yield staking vaults.
 
 Highlights:<br>
 [Sherlock Profile](https://audits.sherlock.xyz/watson/giraffe)<br>
@@ -12,23 +12,27 @@ Highlights:<br>
 For private audits, please contact me through [Twitter](https://twitter.com/giraffe0x) or [Telegram](https://t.me/Nic_giraffe0x).
 
 ## Past engagements
-| Date     	| Protocol    	| Type                  	| Audit 	| Report                                                                                                	|
+| Date     	| Protocol    	| Type                  	| Language 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
-| Mar 2025 | Orderly | LayerZero Solana (Rust) | Guardian Audits | TBA
-| Feb 2025 | Abracadabra Money | Arbitrum Migration | Guardian Audits | TBA
-| Jan 2025 | Synthetix | Treasury Markets | Guardian Audits | TBA
-| Jan 2025 | True Markets | Prediction Markets | Guardian Audits | TBA
-| Dec 2024 | Mux | Perpetuals | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/MUX/2025-02-06_MUX_Perps.pdf)
-| Nov 2024 | Foil | Concentrated Liquidity, Vaults | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Foil/2025-01-13_Foil_Vault.pdf)
-| Oct 2024 | Zap | Defi / Staking | Guardian Audits | TBA
-| Sep 2024 | Peapods | Defi / Lending vault | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Peapods/2024-11-11_Peapods.pdf)
-| Aug 2024  | Synthetix V3 | V3 Migration |  Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2025-10-28_Synthetix_Migration.pdf)
-| Jul 2024  | Synthetix V3 | Perpetuals | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-10-28_Synthetix_Perps_V3.pdf)
-| Jun 2024 | Orderly      | Defi / Crosschain / LZ | Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2024-07-01_Orderly_Omnichain.pdf)
-| May 2024 	| PleasrDao 	| DN404 / NFTs 	| Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/tree/main/PleasR)                                       	|
-| Apr 2024 	| Baseline 	| Concentrated Liquidity 	| Guardian Audits 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/BaselineMarkets)                                       	|
-| Apr 2024 	| Synthetix V3 	| Perpetuals 	| Guardian Audits 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/Synthetix)                                   	|
-| Mar 2024 	| Abracadabra Money 	| Defi / Blast 	| Guardian Audits | [Report](https://github.com/GuardianAudits/Audits/tree/main/MIMSwap)                                      	|
+| Apr 2025 | Ginza Gaming | Sports Betting | Rust | TBA 
+| Apr 2025 | Tenor | Lending markets | Solidity | TBA 
+| Mar 2025 | Polynomial | Perpetuals Exchange | Solidity | TBA 
+| Mar 2025 | Abracadabra Money | Purrswap AMM | Solidity | TBA 
+| Mar 2025 | Orderly | LayerZero Solana | Rust | TBA 
+| Feb 2025 | Abracadabra Money | Arbitrum Migration | Solidity | TBA 
+| Jan 2025 | Synthetix | Treasury Markets | Solidity | TBA 
+| Jan 2025 | True Markets | Prediction Markets | Solidity | TBA 
+| Dec 2024 | Mux | Perpetuals | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/MUX/2025-02-06_MUX_Perps.pdf)
+| Nov 2024 | Foil | Concentrated Liquidity, Vaults | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/Foil/2025-01-13_Foil_Vault.pdf)
+| Oct 2024 | Zap | Defi / Staking | Solidity | TBA
+| Sep 2024 | Peapods | Defi / Lending vault | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/Peapods/2024-11-11_Peapods.pdf)
+| Aug 2024  | Synthetix V3 | V3 Migration |  Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2025-10-28_Synthetix_Migration.pdf)
+| Jul 2024  | Synthetix V3 | Perpetuals | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-10-28_Synthetix_Perps_V3.pdf)
+| Jun 2024 | Orderly      | Defi / Crosschain / LZ | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2024-07-01_Orderly_Omnichain.pdf)
+| May 2024 	| PleasrDao 	| DN404 / NFTs 	| Solidity | [Report](https://github.com/GuardianAudits/Audits/tree/main/PleasR)                                       	|
+| Apr 2024 	| Baseline 	| Concentrated Liquidity 	| Solidity 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/BaselineMarkets)                                       	|
+| Apr 2024 	| Synthetix V3 	| Perpetuals 	| Solidity 	| [Report](https://github.com/GuardianAudits/Audits/tree/main/Synthetix)                                   	|
+| Mar 2024 	| Abracadabra Money 	| Defi / Blast 	| Solidity | [Report](https://github.com/GuardianAudits/Audits/tree/main/MIMSwap)                                      	|
 
 ## Past contests
 
@@ -36,6 +40,7 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 
 | Protocol     	| Type    	| Ranking                  	| Report 	|
 |----------	|-------------	|-----------------------	|----------	|
+| Starknet | Perpetuals Exchange (Cairo) | 2nd 🏆 | TBA
 | Fairside Network | On-chain Insurance                                      | 2nd 🏆    | Private Contest
 | Jala Swap       | DEX on Chiliz chain                                                             | 3rd 🏆    | [M1](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/130) [M2](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/47)
 | Rio Network   	| Liquid restaking protocol integrated with Eigenlayer                           	| 5th     	| [H1](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/184) [H2](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/54) [M1](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/59)                                                                                                                                                                                                                            	|
