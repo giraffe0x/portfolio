@@ -1,8 +1,7 @@
 # Nicholas Chew "giraffe"
+I currently audit Solidity and Rust codebases at [@GuardianAudits](https://twitter.com/GuardianAudits), and occasionally compete in audit contests on platforms like Code4rena, Sherlock and Cantina.
 
-Security researcher with two years of experience. Currently doing Solidity and Rust audits with [@GuardianAudits](https://twitter.com/GuardianAudits) and occassionally compete on contest platforms.
-
-Previously, I was a Solidity developer at a DeFi protocol building yield staking vaults.
+Before that, I worked as a Solidity developer at a DeFi protocol, where I built and maintained yield-staking vaults.
 
 Highlights:<br>
 [Sherlock Profile](https://audits.sherlock.xyz/watson/giraffe)<br>
@@ -14,6 +13,7 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Language 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
+| May 2025 | Tether | USDT0 Polygon Deployment | Solidity | TBA
 | Apr 2025 | Ginza Gaming | Sports Betting | Rust | TBA 
 | Apr 2025 | Tenor | Lending markets | Solidity | TBA 
 | Mar 2025 | Polynomial | Perpetuals Exchange | Solidity | TBA 
