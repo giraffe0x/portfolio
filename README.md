@@ -18,10 +18,10 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 | Apr 2025 | Tenor | Lending markets | Solidity | TBA 
 | Mar 2025 | Polynomial | Perpetuals Exchange | Solidity | TBA 
 | Mar 2025 | Abracadabra Money | Purrswap AMM | Solidity | TBA 
-| Mar 2025 | Orderly | LayerZero Solana | Rust | TBA 
+| Mar 2025 | Orderly | LayerZero Solana | Rust | [Report](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2025-03-21_Orderly_Solana_Staking.pdf)
 | Feb 2025 | Abracadabra Money | Arbitrum Migration | Solidity | TBA 
 | Jan 2025 | Synthetix | Treasury Markets | Solidity | TBA 
-| Jan 2025 | True Markets | Prediction Markets | Solidity | TBA 
+| Jan 2025 | True Markets | Prediction Markets | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/Truemarkets/2025-03-18_Truemarkets_Report.pdf) 
 | Dec 2024 | Mux | Perpetuals | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/MUX/2025-02-06_MUX_Perps.pdf)
 | Nov 2024 | Foil | Concentrated Liquidity, Vaults | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/Foil/2025-01-13_Foil_Vault.pdf)
 | Oct 2024 | Zap | Defi / Staking | Solidity | TBA
@@ -40,18 +40,18 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 
 | Protocol     	| Type    	| Ranking                  	| Report 	|
 |----------	|-------------	|-----------------------	|----------	|
-| Starknet | Perpetuals Exchange (Cairo) | 2nd 🏆 | TBA
-| Fairside Network | On-chain Insurance                                      | 2nd 🏆    | Private Contest
-| Jala Swap       | DEX on Chiliz chain                                                             | 3rd 🏆    | [M1](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/130) [M2](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/47)
-| Rio Network   	| Liquid restaking protocol integrated with Eigenlayer                           	| 5th     	| [H1](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/184) [H2](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/54) [M1](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/59)                                                                                                                                                                                                                            	|
-| Opal Protocol 	| Liquidity pools integrated with Balancer                                       	| 2nd 🏆   	| TBA                                                                                                                                                                                                                            	|
-| Zerolend      	| Lending protocol on Zksync                                                     	| 16th     	| TBA                                                                                                                                                                                                                            	|
-| Salty.io        | Ethereum-based DEX with zero swap fees                                          | 3rd 🏆    | [M1](https://code4rena.com/audits/2024-01-saltyio#top)
-| Jojo Exchange 	| Defi perpetual protocol                                                        	| 3rd 🏆   	| [H1](https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging/issues/76) [M1](https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging/issues/77)
-| Nouns Builder 	| DAO and governance platform                                                    	| 17th     	| [H1](https://github.com/sherlock-audit/2023-09-nounsbuilder-judging/issues/309) [M1](https://github.com/sherlock-audit/2023-09-nounsbuilder-judging/issues/306)
-| Real Wagmi #2 	| Trading, liquidity provision, swapping, and yield strategy generation platform 	| 4th     	| [H1](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues/95) [M1](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues/195)
-| Asymmetry     	| Liquid staking derivative                                                      	| -       	| [H1](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/588) [H2](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/142) [M1](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/150)
-| GMX v2        	| Decentralized spot and perpetual exchange                                      	| 14th     	| [M1](https://github.com/sherlock-audit/2023-02-gmx-judging/issues/212)
+| Starknet | Perpetuals Exchange (Cairo) | 2nd 🏆 | [Report](https://code4rena.com/reports/2025-03-starknet-perpetual)
+| Fairside Network | On-chain Insurance                                      | 2nd 🏆    | [Report](https://audits.sherlock.xyz/contests/315)
+| Jala Swap       | DEX on Chiliz chain                                                             | 3rd 🏆    | [Report](https://github.com/sherlock-audit/2024-02-jala-swap-judging/issues/130)
+| Rio Network   	| Liquid restaking protocol integrated with Eigenlayer                           	| 5th     	| [Report](https://github.com/sherlock-audit/2024-02-rio-network-core-protocol-judging/issues/184)                                                                                                                                                                                                              	|
+| Opal Protocol 	| Liquidity pools integrated with Balancer                                       	| 2nd 🏆   	| [Report](https://cantina.xyz/code/28425672-ce54-4c66-b188-c4d5650d6790/findings)                                                                                                                                                                                                                           	|
+| Zerolend      	| Lending protocol on Zksync                                                     	| 16th     	| [Report](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings?status=confirmed&severity=high,medium,critical)                                                                                                                                                                                                                           	|
+| Salty.io        | Ethereum-based DEX with zero swap fees                                          | 3rd 🏆    | [Report](https://code4rena.com/audits/2024-01-saltyio#top)
+| Jojo Exchange 	| Defi perpetual protocol                                                        	| 3rd 🏆   	| [Report](https://github.com/sherlock-audit/2023-12-jojo-exchange-update-judging/issues/76)
+| Nouns Builder 	| DAO and governance platform                                                    	| 17th     	| [Report](https://github.com/sherlock-audit/2023-09-nounsbuilder-judging/issues/309)
+| Real Wagmi #2 	| Trading, liquidity provision, swapping, and yield strategy generation platform 	| 4th     	| [Report](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues/95)
+| Asymmetry     	| Liquid staking derivative                                                      	| -       	| [Report](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/588)
+| GMX v2        	| Decentralized spot and perpetual exchange                                      	| 14th     	| [Report](https://github.com/sherlock-audit/2023-02-gmx-judging/issues/212)
 
 
 
