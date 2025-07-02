@@ -13,9 +13,12 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Language 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
+| Jun 2025 | Gamma Strategies | AMM Vault / Uniswap V4 integration / Algebra | Solidity | TBA
+| Jun 2025 | M0 | Uniswap V4 Integration | Solidity | TBA
+| May 2025 | Purrswap | AMM | Solidity | TBA
 | May 2025 | Tether | USDT0 Polygon Deployment | Solidity | TBA
 | Apr 2025 | Ginza Gaming | Sports Betting | Rust | TBA 
-| Apr 2025 | Tenor | Lending markets | Solidity | TBA 
+| Apr 2025 | Tenor | Lending markets / Uniswap V4 Hooks | Solidity | TBA 
 | Mar 2025 | Polynomial | Perpetuals Exchange | Solidity | TBA 
 | Mar 2025 | Abracadabra Money | Purrswap AMM | Solidity | TBA 
 | Mar 2025 | Orderly | LayerZero Solana | Rust | [Report](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2025-03-21_Orderly_Solana_Staking.pdf)
