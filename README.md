@@ -13,12 +13,17 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Language 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
+| Sep 2025 | Limit Break | AMM / Hooks | Solidity | TBA
+| Aug 2025 | True Markets | AMM | Solidity | TBA
+| Aug 2025 | Impermax | Aerodrome Staking Contracts | Solidity | TBA
+| Jul 2025 | Foil | AMM | Solidity | TBA
+| Jul 2025 | Purrswap Aerodrome | Staking / Voting | Solidity | TBA
 | Jun 2025 | Gamma Strategies | AMM Vault / Uniswap V4 integration / Algebra | Solidity | TBA
-| Jun 2025 | M0 | Uniswap V4 Integration | Solidity | TBA
+| Jun 2025 | M0 | Uniswap V4 Integration | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/M0/M0_Uniswap_V4_Hooks_report.pdf)
 | May 2025 | Purrswap | AMM | Solidity | TBA
 | May 2025 | Tether | USDT0 Polygon Deployment | Solidity | TBA
 | Apr 2025 | Ginza Gaming | Sports Betting | Rust | TBA 
-| Apr 2025 | Tenor | Lending markets / Uniswap V4 Hooks | Solidity | TBA 
+| Apr 2025 | Tenor | Lending markets / Uniswap V4 Hooks | Solidity | [Report](https://github.com/GuardianAudits/Audits/blob/main/Tenor/Tenor%20-%20Lending%20Protocol_report.pdf)
 | Mar 2025 | Polynomial | Perpetuals Exchange | Solidity | TBA 
 | Mar 2025 | Abracadabra Money | Purrswap AMM | Solidity | TBA 
 | Mar 2025 | Orderly | LayerZero Solana | Rust | [Report](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2025-03-21_Orderly_Solana_Staking.pdf)
