@@ -13,8 +13,8 @@ For private audits, please contact me through [Twitter](https://twitter.com/gira
 ## Past engagements
 | Date     	| Protocol    	| Type                  	| Language 	| Report                                                                                                	|
 |----------	|-------------	|-----------------------	|----------	|-------------------------------------------------------------------------------------------------------	|
-| Feb 2025 | GMX V2 | Perpetuals | Solidity | TBA
-| Jan 2025 | Limit Break Pt 2 | AMM / Hooks | Solidity | TBA
+| Feb 2026 | GMX V2 | Perpetuals | Solidity | TBA
+| Jan 2026 | Limit Break Pt 2 | AMM / Hooks | Solidity | TBA
 | Sep 2025 | Limit Break | AMM / Hooks | Solidity | TBA
 | Aug 2025 | True Markets | AMM | Solidity | TBA
 | Aug 2025 | Impermax | Aerodrome Staking Contracts | Solidity | TBA
